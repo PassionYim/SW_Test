@@ -6,3 +6,5 @@ Contents
 2. Implementation
 3. DFS / BFS
 4. Sorting
+5. Binary Search
+6. Dynamic Programming
